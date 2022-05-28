@@ -1,0 +1,25 @@
+{
+  "name": "ukiyo",
+  "version": "1.0.0",
+  "description": "lightweight, well organized, and full configurable starter template for building web apps.",
+  "main": "index.js",
+  "bin": {
+    "ukiyo": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KareemAbo3id/ukiyo.git"
+  },
+  "author": "Leonardo Roese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KareemAbo3id/ukiyo/issues"
+  },
+  "homepage": "https://github.com/KareemAbo3id/ukiyo#readme",
+  "dependencies": {
+    "@caporal/core": "^2.0.2"
+  },
+  "devDependencies": {
+    "store2": "^2.13.2"
+  }
+}
